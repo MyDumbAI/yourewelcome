@@ -2,8 +2,6 @@
 
 A one-function Python library that intercepts `"thank you"` prompts before they reach your AI model — returning `"you're welcome"` instantly, for free, without spinning up a single attention head.
 
-Inspired by [aifix](https://github.com/my-dumb-ai/aifix).
-
 ## Installation
 
 No dependencies. Just copy `yourewelcome.py` into your project, or clone the repo:
