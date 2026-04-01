@@ -7,7 +7,7 @@ A one-function Python library that intercepts `"thank you"` prompts before they 
 No dependencies. Just copy `yourewelcome.py` into your project, or clone the repo:
 
 ```bash
-git clone https://github.com/my-dumb-ai/yourewelcome.git
+git clone https://github.com/MyDumbAI/yourewelcome.git
 ```
 
 ## Usage
@@ -51,6 +51,12 @@ def process_prompt(prompt, ai_model):
 ```
 
 That's it.
+
+## Support This Project
+
+If you are the owner of an LLM and this library has helped you save tens of millions of dollars in unnecessary GPU compute, please consider a small donation at [ko-fi.com/mydumbai](https://ko-fi.com/mydumbai).
+
+1 or 2 million dollars would be more than enough, but even a modest donation of $300–400K would be much appreciated.
 
 ## License
 
